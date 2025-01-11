@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.30.49.2",
+    "project": "thecrashoftheshitfuck3-Imported"
+  }
+]
